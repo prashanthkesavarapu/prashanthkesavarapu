@@ -1,4 +1,4 @@
-                                                    # 👋 Hi, I'm Kesavarapu Prashanth
+  # 👋 Hi, I'm Kesavarapu Prashanth
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;SAP+ABAP+Backend+Developer;Python+%7C+C+%7C+Java+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer" />
