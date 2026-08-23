@@ -220,8 +220,8 @@ A collection of programming and algorithmic problems solved while improving my p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthkesavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthkesavarapu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthkesavarapu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthkesavarapu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -229,7 +229,7 @@ A collection of programming and algorithmic problems solved while improving my p
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prashanthkesavarapu&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=prashanthkesavarapu&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -250,27 +250,12 @@ A collection of programming and algorithmic problems solved while improving my p
 
 ---
 
-## 📊 My GitHub Contribution Stats
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=prashanthkesavarapu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthkesavarapu&langs_count=10&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prashanthkesavarapu/prashanthkesavarapu/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
