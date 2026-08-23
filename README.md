@@ -2,9 +2,8 @@
 
 ### 💻 Data Science Engineer | SAP ABAP Backend Developer
 
-> **Learn continuously • Build practically • Make decisions strategically**
-
 ---
+
 
 ## 🧑‍💻 About Me
 
