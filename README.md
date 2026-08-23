@@ -214,22 +214,6 @@ A collection of programming and algorithmic problems solved while improving my p
 | 🧠 Soft Skills | Problem Solving, Leadership, Teamwork |
 
 </p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="./profile/trophy.svg" />
-</p>
 
 ---
 
