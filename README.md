@@ -1,21 +1,26 @@
-<div align="center">
-
 # 👋 Hi, I'm Kesavarapu Prashanth
 
-### 🎓 Data Science Engineer | 💻 SAP ABAP Backend Developer | 🤖 Generative AI Enthusiast
-
-**B.Tech CSE – Data Science | Python | C | Java | SQL | Machine Learning | SAP ABAP**
-
-<p>
-  <a href="https://github.com/prashanthkesavarapu">
-    <img src="https://img.shields.io/badge/GitHub-Prashanth-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/prashanth-kesavarapu-276078384?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;SAP+ABAP+Backend+Developer;Python+%7C+C+%7C+Java+Developer;Machine+Learning+Enthusiast;Generative+AI+Explorer" />
 </p>
 
-</div>
+<p align="center">
+  🎓 B.Tech CSE – Data Science &nbsp; | &nbsp;
+  💻 Data Science Engineer &nbsp; | &nbsp;
+  🚀 Always Learning
+</p>
+
+<p align="center">
+  <a href="https://github.com/prashanthkesavarapu">
+    <img src="https://img.shields.io/badge/GitHub-prashanthkesavarapu-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/prashanth-kesavarapu-276078384?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:prashanthkesavarapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -23,268 +28,314 @@
 
 I am **Kesavarapu Prashanth**, currently pursuing my **Bachelor of Technology in Computer Science & Engineering with specialization in Data Science**.
 
-I am passionate about **Data Science, Machine Learning, Backend Development, Generative AI, and SAP ABAP**. I enjoy solving programming problems, building practical applications, exploring new technologies, and continuously improving my technical skills.
+I have developed a strong foundation in **Python, C, Java, SQL, Data Science, Data Analytics and Software Development**. I continuously work on improving my technical knowledge by building projects and practicing programming problems.
 
-- 🎓 **B.Tech – Computer Science & Engineering (Data Science)**
-- 💻 Strong interest in **Python, C, Java and SQL**
-- 📊 Interested in **Data Science, Data Analytics and Machine Learning**
-- 🤖 Exploring **Generative AI and AI-based applications**
-- ⚙️ Certified **SAP ABAP Backend Developer**
-- ☁️ Certified **Oracle Generative AI Professional**
-- 🧩 Practicing **Data Structures & Algorithms**
-- 🚀 Interested in **Backend Development and Software Engineering**
-- 🧠 Regularly improving my programming skills through **LeetCode**
-- ♟️ **Chess enthusiast** with strong problem-solving and decision-making skills
-- 🗺️ Interested in contributing to **Google Maps**
-- 📱 Interested in building useful real-world applications
+### 🚀 What I Do
+
+- 📊 **Data Science & Data Analytics**
+- 🤖 **Machine Learning**
+- ✨ **Generative AI**
+- ⚙️ **SAP ABAP Backend Development**
+- 🐍 **Python Programming**
+- ☕ **Java Programming**
+- 💻 **C Programming**
+- 🗄️ **SQL & Database Management**
+- 🌐 **Backend Development**
+- 🧩 **Data Structures & Algorithms**
+- ☁️ **Oracle Cloud**
+- 🔥 **Problem Solving & Competitive Programming**
 
 ---
 
-## 🚀 What I Do
+## 🎯 Currently Learning
 
-- 🐍 Develop applications using **Python**
-- 📊 Work with **Data Science & Data Analytics**
-- 🤖 Build and explore **Machine Learning models**
-- ✨ Experiment with **Generative AI**
-- ⚙️ Develop backend applications using **SAP ABAP**
-- 🌐 Build web applications and APIs
-- 🗄️ Work with databases and SQL
-- 🧩 Practice **DSA & Competitive Programming**
-- 💡 Build projects that solve real-world problems
+- 🧠 Advanced Data Structures & Algorithms
+- 🤖 Machine Learning & Deep Learning
+- ✨ Generative AI
+- ⚙️ SAP ABAP Development
+- 🌐 Backend Development
+- 🐍 Advanced Python
+- 🗄️ SQL & Database Optimization
+- ☁️ Cloud Technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-### ⚙️ Backend & Development
+### 🌐 Web & Backend
 
-<p>
-<img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,flask" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### 🔧 Tools & Platforms
+### ☁️ Cloud & Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📜 Certifications
+## ⚙️ SAP ABAP
 
-- 🏆 **SAP ABAP Backend Developer – Certified**
-- ☁️ **Oracle Generative AI Professional – Certified**
-- 🎓 **NPTEL Certified Courses**
-- 💻 **Virtual Internship – Full Stack Developer (MERN Stack)**
+🎓 **Certified SAP ABAP Backend Developer**
+
+Experienced / Learning:
+
+- ABAP Reports
+- Internal Tables
+- Work Areas
+- Open SQL
+- Joins
+- ALV Reports
+- Selection Screens
+- Search Helps
+- Modularization
+- Function Modules
+- Debugging
+- Dictionary Objects
+- Data Elements
+- Domains
+- Tables
+- Structures
+- SAP Backend Development
+
+---
+
+## ☁️ Oracle Cloud
+
+🎓 **Oracle Generative AI Professional Certified**
+
+Interested in:
+
+- Oracle Cloud Infrastructure
+- Generative AI
+- Cloud Computing
+- AI Applications
+- Cloud-based Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📧 MailPing – Gmail to WhatsApp Alert System
+### 📧 MailPing
 
-A Python-based application that automatically monitors incoming Gmail messages and sends important email notifications to WhatsApp using **Twilio**.
-
-**Technologies:**
-`Python` `Gmail API` `Google Cloud` `Twilio` `OAuth`
-
-🔗 **Repository:**  
-https://github.com/prashanthkesavarapu/MailPing
-
----
-
-### 📈 SB-Stocks – Stock Market Application
-
-A MERN-stack based stock market application designed for tracking market information, managing portfolios and simulating stock trading.
+A Python-based automation project that monitors Gmail and sends instant WhatsApp notifications using Twilio.
 
 **Technologies:**
 
-`MongoDB` `Express.js` `React` `Node.js` `JavaScript`
+`Python` `Gmail API` `Google Cloud` `Twilio` `WhatsApp` `OAuth`
+
+🔗 [View MailPing](https://github.com/prashanthkesavarapu/MailPing)
 
 ---
 
-### 💻 LeetCode Solutions
+### 📈 SB-Stocks
 
-A collection of my programming and Data Structures & Algorithms practice solutions.
+A MERN-based virtual stock trading simulator with live market data, portfolios and paper trading functionality.
 
-**Topics include:**
+**Technologies:**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JavaScript`
+
+---
+
+### 💻 LeetCode Practice
+
+A collection of programming and algorithmic problems solved while improving my problem-solving and Data Structures & Algorithms skills.
+
+**Focus Areas:**
 
 - Arrays
 - Strings
 - Linked Lists
-- Stack
-- Queue
+- Stacks
+- Queues
+- Hashing
 - Searching
 - Sorting
-- Hashing
 - Sliding Window
+- Binary Search
+- Recursion
 - Dynamic Programming
 - Mathematical Problems
-- Problem Solving
 
-🔗 **Repository:**  
-https://github.com/prashanthkesavarapu/leetcode
+🔗 [View LeetCode Repository](https://github.com/prashanthkesavarapu/leetcode)
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🏆 Certifications
 
-I regularly practice programming problems to improve my:
-
-- 🔹 Problem-solving skills
-- 🔹 Algorithmic thinking
-- 🔹 Time & Space Complexity analysis
-- 🔹 Coding efficiency
-- 🔹 Logical reasoning
-
-### 📌 Areas I Practice
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`
-
-`Hashing` • `Binary Search` • `Sorting` • `Recursion`
-
-`Sliding Window` • `Two Pointers` • `Greedy` • `Dynamic Programming`
+- 🎓 **SAP ABAP Backend Developer**
+- ☁️ **Oracle Generative AI Professional**
+- 🤖 **AI / Machine Learning Certifications**
+- 📊 **Data Science & Data Analytics Certifications**
+- 💻 **Programming & Development Certifications**
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Skills
 
-- 🤖 Generative AI
-- 🧠 Machine Learning
-- 📊 Advanced Data Science
-- ⚙️ SAP ABAP
-- 🗄️ Database Management
-- 💻 Advanced Python
-- 🧩 Data Structures & Algorithms
-- 🌐 Backend Development
-- ☁️ Cloud Technologies
+<p align="center">
 
----
+| Category | Skills |
+|---|---|
+| 💻 Programming | Python, C, Java, JavaScript |
+| 📊 Data | Data Science, Data Analytics, Statistics |
+| 🤖 AI | Machine Learning, Deep Learning, Generative AI |
+| ⚙️ SAP | SAP ABAP, Backend Development |
+| 🗄️ Database | SQL, MySQL, MongoDB, SQLite |
+| 🌐 Web | HTML, CSS, JavaScript, MERN |
+| 🧩 DSA | Arrays, Strings, Linked Lists, Stack, Queue, Searching, Sorting |
+| ☁️ Cloud | Oracle Cloud |
+| 🔧 Tools | Git, GitHub, VS Code, Postman |
+| 🧠 Soft Skills | Problem Solving, Leadership, Teamwork |
 
-## 🎯 My Goals
-
-- 🚀 Become a strong **Data Science / AI Engineer**
-- ⚙️ Build expertise in **SAP ABAP Backend Development**
-- 🤖 Develop practical **AI & Generative AI applications**
-- 💻 Become highly proficient in **Python**
-- 🧩 Master **Data Structures & Algorithms**
-- 🌐 Build scalable real-world applications
-- 🌱 Continuously learn and contribute to open-source projects
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prashanthkesavarapu&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthkesavarapu&theme=tokyonight&hide_border=true" width="48%">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashanthkesavarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthkesavarapu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 💻 Most Used Languages
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthkesavarapu&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashanthkesavarapu&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prashanthkesavarapu&theme=tokyonight&no-frame=true&margin-w=10">
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prashanthkesavarapu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanthkesavarapu&theme=tokyo-night&hide_border=true">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanthkesavarapu&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 📊 My GitHub Contribution Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=prashanthkesavarapu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthkesavarapu&langs_count=10&layout=donut&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prashanthkesavarapu/prashanthkesavarapu/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌱 My Goals
+
+- 🚀 Become a skilled **Data Science Engineer**
+- ⚙️ Grow as an **SAP ABAP Backend Developer**
+- 🤖 Build practical **AI & ML applications**
+- ✨ Explore **Generative AI**
+- ☁️ Improve my **Cloud Computing** skills
+- 🧩 Master **Data Structures & Algorithms**
+- 💻 Build more real-world projects
+- 🌍 Contribute to Open Source
+- 📚 Keep learning and improving every day
+
+---
+
+## 📌 My Development Philosophy
+
+> **Learn → Build → Practice → Improve → Repeat 🔥**
+
+I believe that consistent practice and real-world projects are the best way to improve technical skills.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/prashanthkesavarapu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## 💡 Fun Facts About Me
-
-- ♟️ Chess enthusiast
-- 🏐 Volleyball player
-- 🧠 Love solving challenging problems
-- 💻 Enjoy building applications
-- 📚 Always learning something new
-- 🚀 Believe in learning by building
+</p>
 
 ---
 
 ## ⭐ Thank You for Visiting My Profile!
 
-<div align="center">
+<p align="center">
 
-### 🙏 Thanks for taking the time to visit my GitHub profile!
+### 🙏 Thank you for taking the time to visit my GitHub profile!
 
 ⭐ **If you find my projects interesting, feel free to explore my repositories and give them a star.**
 
-💬 **Let's connect, collaborate and build something amazing together!**
+💡 **I'm always open to learning, collaboration and new opportunities.**
 
-<br>
+🚀 **Keep Learning. Keep Building. Keep Growing.**
 
-<img src="https://komarev.com/ghpvc/?username=prashanthkesavarapu&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prashanthkesavarapu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Kesavarapu Prashanth</b>
+</p>
