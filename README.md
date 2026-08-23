@@ -214,22 +214,13 @@ A collection of programming and algorithmic problems solved while improving my p
 | 🧠 Soft Skills | Problem Solving, Leadership, Teamwork |
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthkesavarapu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthkesavarapu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prashanthkesavarapu&theme=tokyonight&hide_border=true" />
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
 </p>
 
 ---
@@ -237,7 +228,7 @@ A collection of programming and algorithmic problems solved while improving my p
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashanthkesavarapu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="./profile/trophy.svg" />
 </p>
 
 ---
@@ -250,11 +241,13 @@ A collection of programming and algorithmic problems solved while improving my p
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prashanthkesavarapu/prashanthkesavarapu/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com/?user=prashanthkesavarapu&theme=tokyonight&hide_border=true" />
 </p>
+
+
 
 
 ---
